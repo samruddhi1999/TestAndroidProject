@@ -1,0 +1,11 @@
+1. version contoll on android studio- commit
+check unversion file -> Enter initial message -> Commit
+2.create new repository in Git hub(Browser)
+
+click master and slect push
+connect to remote master paste github url link then click on push
+
+
+
+Cloning the project in another device
+1 git clone url(repository)
